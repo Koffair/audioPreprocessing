@@ -9,6 +9,7 @@ jupyter = "*"
 ipython = "*"
 notebook = "*"
 pydub = "*"
+huggingsound = "*"
 
 [dev-packages]
 
